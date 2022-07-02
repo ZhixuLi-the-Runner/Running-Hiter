@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "graceful-fs": "^4.2.10"
+  },
+  "dependencies": {
+    "gitbook-plugin-todo": "^0.1.3"
+  }
+}
